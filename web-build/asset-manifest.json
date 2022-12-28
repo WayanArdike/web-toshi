@@ -1,0 +1,27 @@
+{
+  "files": {
+    "app.js": "/static/js/app.dd30c477.chunk.js",
+    "app.js.map": "/static/js/app.dd30c477.chunk.js.map",
+    "runtime~app.js": "/static/js/runtime~app.27401809.js",
+    "runtime~app.js.map": "/static/js/runtime~app.27401809.js.map",
+    "static/js/2.fb0740e7.chunk.js": "/static/js/2.fb0740e7.chunk.js",
+    "static/js/2.fb0740e7.chunk.js.map": "/static/js/2.fb0740e7.chunk.js.map",
+    "index.html": "/index.html",
+    "manifest.json": "/manifest.json",
+    "serve.json": "/serve.json",
+    "static/js/2.fb0740e7.chunk.js.LICENSE.txt": "/static/js/2.fb0740e7.chunk.js.LICENSE.txt",
+    "static/media/Banner.png": "/static/media/Banner.a73678d6.png",
+    "static/media/C.png": "/static/media/C.7e0289b6.png",
+    "static/media/admob.png": "/static/media/admob.68a0678e.png",
+    "static/media/ads.png": "/static/media/ads.bd19b27f.png",
+    "static/media/hiragana-katakana.png": "/static/media/hiragana-katakana.00041515.png",
+    "static/media/kanji.png": "/static/media/kanji.076aabfa.png",
+    "static/media/lesson.png": "/static/media/lesson.ddbaa796.png",
+    "static/media/test.png": "/static/media/test.a69c4adf.png"
+  },
+  "entrypoints": [
+    "static/js/runtime~app.27401809.js",
+    "static/js/2.fb0740e7.chunk.js",
+    "static/js/app.dd30c477.chunk.js"
+  ]
+}
